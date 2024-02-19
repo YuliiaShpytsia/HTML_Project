@@ -90,7 +90,7 @@ h1{
 }
 .firstPage button{
     width: 15vw;
-    height: 6vh;
+    height: 7vh;
     border: none;
     border-radius: 4px;
     background: #5454D4;
@@ -179,8 +179,8 @@ h1{
     letter-spacing: -0.5px;
 }
 .blueIcon, .redIcon, .yellowIcon{
-    width: 5vw;
-    height: 8vh;
+    width: 65px;
+    height: 65px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -213,7 +213,7 @@ h1{
     display: flex;
     justify-content: space-between;
 }
-.fourthPage>div>div{
+.fourthPage div div{
     width: 27vw;
     height: 42vh;
     display: flex;
@@ -272,3 +272,7 @@ footer>p{
     line-height: 38px;
     letter-spacing: -0.5px;
 }
+.mobile{
+    display: none;
+}
+
